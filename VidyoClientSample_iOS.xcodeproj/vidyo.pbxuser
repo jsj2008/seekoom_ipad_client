@@ -1,0 +1,582 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* VidyoClientSample_iOS */ = {
+		activeExec = 0;
+		executables = (
+			F4B6444013F5AAFE002EC972 /* VidyoClientSample_iOS */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv7;
+		activeBuildConfigurationName = Release;
+		activeExecutable = F4B6444013F5AAFE002EC972 /* VidyoClientSample_iOS */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* VidyoClientSample_iOS */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* VidyoClientSample_iOS */,
+		);
+		breakpoints = (
+			F47F1C4F13FD81CD006471AD /* InputProcessor.c:263 */,
+			F47F1C8E13FD8C06006471AD /* InputProcessor.c:262 */,
+			F47F1C9013FD8C0D006471AD /* InputProcessor.c:243 */,
+			F47F1CA013FD8D45006471AD /* InputProcessor.c:285 */,
+			F47F1CA213FD8D48006471AD /* InputProcessor.c:288 */,
+			F47F1CB013FD8EBD006471AD /* InputProcessor.c:172 */,
+			F47F1CBB13FD8F32006471AD /* InputProcessor.c:305 */,
+			F47F1CBE13FD8F40006471AD /* InputProcessor.c:538 */,
+			F47F1CC213FD8F4C006471AD /* InputProcessor.c:706 */,
+			F47F1CC513FD8F58006471AD /* InputProcessor.c:780 */,
+			F47F1CD413FD90C8006471AD /* InputProcessor.c:780 */,
+			F47F1CD613FD90CD006471AD /* InputProcessor.c:780 */,
+		);
+		codeSenseManager = F4B6446E13F5AB1D002EC972 /* Code sense */;
+		executables = (
+			F4B6444013F5AAFE002EC972 /* VidyoClientSample_iOS */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					595,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					822,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 339808729;
+			PBXWorkspaceStateSaveDate = 339808729;
+		};
+		perUserProjectItems = {
+			F453312B1441117A0049E0AB /* PBXTextBookmark */ = F453312B1441117A0049E0AB /* PBXTextBookmark */;
+			F453312C1441117A0049E0AB /* PBXTextBookmark */ = F453312C1441117A0049E0AB /* PBXTextBookmark */;
+			F453312D1441117A0049E0AB /* PBXTextBookmark */ = F453312D1441117A0049E0AB /* PBXTextBookmark */;
+			F45331AD144115E40049E0AB /* PlistBookmark */ = F45331AD144115E40049E0AB /* PlistBookmark */;
+			F45331AE144115E40049E0AB /* PBXTextBookmark */ = F45331AE144115E40049E0AB /* PBXTextBookmark */;
+			F45331AF144115E40049E0AB /* PBXTextBookmark */ = F45331AF144115E40049E0AB /* PBXTextBookmark */;
+			F48DF1D914391A2C00733D64 /* PBXTextBookmark */ = F48DF1D914391A2C00733D64 /* PBXTextBookmark */;
+			F48DF1DB14391A2C00733D64 /* PBXTextBookmark */ = F48DF1DB14391A2C00733D64 /* PBXTextBookmark */;
+			F48DF2BA14394B1200733D64 /* PBXTextBookmark */ = F48DF2BA14394B1200733D64 /* PBXTextBookmark */;
+			F48DF33E143964E400733D64 /* PBXTextBookmark */ = F48DF33E143964E400733D64 /* PBXTextBookmark */;
+			F48DF33F143964E400733D64 /* PBXTextBookmark */ = F48DF33F143964E400733D64 /* PBXTextBookmark */;
+			F48DF47C143F7D3100733D64 /* PBXTextBookmark */ = F48DF47C143F7D3100733D64 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F4B6446D13F5AB1D002EC972 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F453312B1441117A0049E0AB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F47F242813FF11B9006471AD /* VidyoClientSample_iOS_AppDelegate.m */;
+		name = "VidyoClientSample_iOS_AppDelegate.m: 116";
+		rLen = 0;
+		rLoc = 3184;
+		rType = 0;
+		vrLen = 2226;
+		vrLoc = 2339;
+	};
+	F453312C1441117A0049E0AB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F47F245513FF1376006471AD /* VidyoClientSample.c */;
+		name = "VidyoClientSample.c: 23";
+		rLen = 0;
+		rLoc = 495;
+		rType = 0;
+		vrLen = 1704;
+		vrLoc = 0;
+	};
+	F453312D1441117A0049E0AB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F48DEF011438082600733D64 /* LoginWindow.h */;
+		name = "LoginWindow.h: 34";
+		rLen = 0;
+		rLoc = 834;
+		rType = 0;
+		vrLen = 1116;
+		vrLoc = 0;
+	};
+	F45331AD144115E40049E0AB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = F47F237113FF0642006471AD /* VidyoClientSample_iOS.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/vidyo/Desktop/Sample_GA_2.2.0.005/sample/VidyoClientSample_iOS.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	F45331AE144115E40049E0AB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F48DEF021438082600733D64 /* LoginWindow.m */;
+		rLen = 0;
+		rLoc = 126;
+		rType = 1;
+	};
+	F45331AF144115E40049E0AB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F48DEF021438082600733D64 /* LoginWindow.m */;
+		name = "LoginWindow.m: 116";
+		rLen = 0;
+		rLoc = 4009;
+		rType = 0;
+		vrLen = 1499;
+		vrLoc = 3375;
+	};
+	F47F1C4F13FD81CD006471AD /* InputProcessor.c:263 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F47F22BB13FF04F1006471AD /* InputProcessor.c */;
+		functionName = "OnVidyoClientPrivateVcsoapLoginEvent()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 263;
+		modificationTime = 339809286.929105;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F47F1C8E13FD8C06006471AD /* InputProcessor.c:262 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F47F22BB13FF04F1006471AD /* InputProcessor.c */;
+		functionName = "OnVidyoClientPrivateVcsoapLoginEvent()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 262;
+		modificationTime = 339809286.928906;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F47F1C9013FD8C0D006471AD /* InputProcessor.c:243 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F47F22BB13FF04F1006471AD /* InputProcessor.c */;
+		functionName = "OnVidyoClientPrivateVcsoapLoginEvent()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 243;
+		modificationTime = 339809286.929037;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F47F1CA013FD8D45006471AD /* InputProcessor.c:285 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F47F22BB13FF04F1006471AD /* InputProcessor.c */;
+		functionName = "OnVidyoClientPrivateOutEventVcsoap()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 285;
+		modificationTime = 339809286.929011;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F47F1CA213FD8D48006471AD /* InputProcessor.c:288 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F47F22BB13FF04F1006471AD /* InputProcessor.c */;
+		functionName = "OnVidyoClientPrivateOutEventVcsoap()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 288;
+		modificationTime = 339809286.929061;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F47F1CB013FD8EBD006471AD /* InputProcessor.c:172 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F47F22BB13FF04F1006471AD /* InputProcessor.c */;
+		functionName = "PopulateSignInFromLogin()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 172;
+		modificationTime = 339809286.928959;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F47F1CBB13FD8F32006471AD /* InputProcessor.c:305 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F47F22BB13FF04F1006471AD /* InputProcessor.c */;
+		functionName = "OnVidyoClientPrivateOutEvent()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 305;
+		modificationTime = 339809286.928983;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F47F1CBE13FD8F40006471AD /* InputProcessor.c:538 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F47F22BB13FF04F1006471AD /* InputProcessor.c */;
+		functionName = "InputProcessorOnVidyoClientEvent()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 538;
+		modificationTime = 339809286.928833;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F47F1CC213FD8F4C006471AD /* InputProcessor.c:706 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F47F22BB13FF04F1006471AD /* InputProcessor.c */;
+		functionName = "InputProcessorInputChar()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 706;
+		modificationTime = 339809286.929082;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F47F1CC513FD8F58006471AD /* InputProcessor.c:780 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F47F22BB13FF04F1006471AD /* InputProcessor.c */;
+		functionName = "InputProcessorInputLine()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 780;
+		modificationTime = 339809286.928933;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F47F1CD413FD90C8006471AD /* InputProcessor.c:780 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F47F22BB13FF04F1006471AD /* InputProcessor.c */;
+		functionName = "InputProcessorInputLine()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 780;
+		modificationTime = 339809286.92888;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F47F1CD613FD90CD006471AD /* InputProcessor.c:780 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F47F22BB13FF04F1006471AD /* InputProcessor.c */;
+		functionName = "InputProcessorInputLine()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 780;
+		modificationTime = 339809286.929132;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F47F22BB13FF04F1006471AD /* InputProcessor.c */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.c;
+		name = InputProcessor.c;
+		path = /Users/vidyo/Documents/Alpha_2.1.1.0.003/sample/InputProcessor.c;
+		sourceTree = "<absolute>";
+	};
+	F47F22C113FF04F1006471AD /* VidyoClientSample_iOS.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1195, 747}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 191}";
+		};
+	};
+	F47F22C613FF0518006471AD /* main_ios.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {725, 452}}";
+			sepNavSelRange = "{122, 0}";
+			sepNavVisRange = "{0, 352}";
+		};
+	};
+	F47F22D613FF0548006471AD /* VidyoClient.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 5265}}";
+			sepNavSelRange = "{7954, 115}";
+			sepNavVisRange = "{7346, 1377}";
+			sepNavWindowFrame = "{{107, 182}, {969, 607}}";
+		};
+	};
+	F47F22D713FF0548006471AD /* VidyoClientConstants.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {727, 1703}}";
+			sepNavSelRange = "{19, 22}";
+			sepNavVisRange = "{0, 854}";
+		};
+	};
+	F47F22D813FF0548006471AD /* VidyoClientMessages.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {789, 17797}}";
+			sepNavSelRange = "{21693, 28}";
+			sepNavVisRange = "{21338, 1216}";
+			sepNavWindowFrame = "{{84, 203}, {969, 607}}";
+		};
+	};
+	F47F22D913FF0548006471AD /* VidyoClientParameters.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {685, 32630}}";
+			sepNavSelRange = "{59464, 3}";
+			sepNavVisRange = "{61536, 1861}";
+		};
+	};
+	F47F237313FF064B006471AD /* MainWindow.xib */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {913, 5012}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {913, 441}}";
+			sepNavWindowFrame = "{{286, 116}, {969, 607}}";
+		};
+	};
+	F47F242713FF11B9006471AD /* VidyoClientSample_iOS_AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1155, 419}}";
+			sepNavSelRange = "{312, 0}";
+			sepNavVisRange = "{0, 501}";
+		};
+	};
+	F47F242813FF11B9006471AD /* VidyoClientSample_iOS_AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 1976}}";
+			sepNavSelRange = "{3184, 0}";
+			sepNavVisRange = "{2339, 2226}";
+			sepNavWindowFrame = "{{176, 119}, {969, 607}}";
+		};
+	};
+	F47F245513FF1376006471AD /* VidyoClientSample.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 845}}";
+			sepNavSelRange = "{495, 0}";
+			sepNavVisRange = "{0, 1704}";
+		};
+	};
+	F47F245613FF1376006471AD /* VidyoClientSample.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {805, 602}}";
+			sepNavSelRange = "{400, 0}";
+			sepNavVisRange = "{0, 451}";
+		};
+	};
+	F48DEF011438082600733D64 /* LoginWindow.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 606}}";
+			sepNavSelRange = "{834, 0}";
+			sepNavVisRange = "{0, 1116}";
+			sepNavWindowFrame = "{{589, 271}, {969, 607}}";
+		};
+	};
+	F48DEF021438082600733D64 /* LoginWindow.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 3614}}";
+			sepNavSelRange = "{3323, 0}";
+			sepNavVisRange = "{7710, 817}";
+			sepNavWindowFrame = "{{38, 245}, {969, 607}}";
+		};
+	};
+	F48DEF031438082600733D64 /* LoginWindow.xib */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {789, 10010}}";
+			sepNavSelRange = "{34674, 0}";
+			sepNavVisRange = "{0, 2300}";
+			sepNavWindowFrame = "{{153, 140}, {969, 607}}";
+		};
+	};
+	F48DF1D914391A2C00733D64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F47F245613FF1376006471AD /* VidyoClientSample.h */;
+		name = "VidyoClientSample.h: 18";
+		rLen = 0;
+		rLoc = 400;
+		rType = 0;
+		vrLen = 451;
+		vrLoc = 0;
+	};
+	F48DF1DB14391A2C00733D64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F48DF1DC14391A2C00733D64 /* AppLogic.cpp */;
+		name = "AppLogic.cpp: 9611";
+		rLen = 0;
+		rLoc = 338272;
+		rType = 0;
+		vrLen = 2208;
+		vrLoc = 327872;
+	};
+	F48DF1DC14391A2C00733D64 /* AppLogic.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = AppLogic.cpp;
+		path = /Users/vidyo/Documents/CVSROOT/Products/Client/ClientLib/AppLogic.cpp;
+		sourceTree = "<absolute>";
+	};
+	F48DF2BA14394B1200733D64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F48DEF031438082600733D64 /* LoginWindow.xib */;
+		name = "LoginWindow.xib: 772";
+		rLen = 0;
+		rLoc = 34674;
+		rType = 0;
+		vrLen = 2300;
+		vrLoc = 0;
+	};
+	F48DF33E143964E400733D64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F47F22D813FF0548006471AD /* VidyoClientMessages.h */;
+		name = "VidyoClientMessages.h: 846";
+		rLen = 28;
+		rLoc = 21693;
+		rType = 0;
+		vrLen = 1216;
+		vrLoc = 21338;
+	};
+	F48DF33F143964E400733D64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F47F22D913FF0548006471AD /* VidyoClientParameters.h */;
+		name = "VidyoClientParameters.h: 932";
+		rLen = 159;
+		rLoc = 33914;
+		rType = 0;
+		vrLen = 1576;
+		vrLoc = 32961;
+	};
+	F48DF47C143F7D3100733D64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F47F22C113FF04F1006471AD /* VidyoClientSample_iOS.pch */;
+		name = "VidyoClientSample_iOS.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	F4B6444013F5AAFE002EC972 /* VidyoClientSample_iOS */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = VidyoClientSample_iOS;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	F4B6446D13F5AB1D002EC972 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F4B6446E13F5AB1D002EC972 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

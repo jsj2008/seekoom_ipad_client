@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  VidyoClientSample_iOS
+
+  Created by lee on 13-5-2.
+
+*/
+
+"联系人" = "Contacts";
+"我的会议室" = "My Rooms";
+"设置" = "Settings";
+"退出" = "Logout";
+"门户网站" = "Portal";
+"用户名" = "Username";
+"密码" = "Password";
+"登 录" = "Login";
+"登录失败" = "Login failed";
+"正在登录..." = "Authenticating...";
+"发起会议" = "Invite";
+"参加会议" = "Join";
+"清空我的会议室" = "Empty My Room";
+"我的联系人" = "My Favorites";
+"共%d位联系人" = "Total %d Contacts";
+"分机   %@" = "Ext   %@";
+"搜索联系人" = "Search contact";
+"搜索房间" = "Search Room";
+"我的联系人" = "My contact";
+"在线" = "Online";
+"直接呼叫" = "Direct Call";
+"会议室被锁定" = "Room is locked";
+"进入会议室" = "Join Room";
+"复制URL到剪切板" = "Copy URL";
+"快速召集会议" = "Group Conference";
+"移除联系人" = "Remove contact";
+"添加联系人" = "Add to contacts";
+"需要输入会议室PIN码才能继续" = "Please enter room PIN number in order to proceed";
+"完成" = "Done";
+"设备初始设置" = "Inital Device Settings";
+"后台处理" = "Backgrounding";
+"网络设置" = "Network Setting";
+"摄像头" = "Camera";
+"麦克风" = "Microphone";
+"后台操作" = "Background Operations";
+"使用网络代理" = "Always use Proxy";
+"踢出会议室" = "Kick Out";
+"全部清空" = "All Kick";
+"选择会议人员" = "Group Conference";
+"确定" = "Done";
+"复制成功" = "Copy Completed";
+"会议邀请" = "Room Links";
+"我的会议室" = "My Room";
+"会议室列表" = "Room List";
+"退出当前账号" = "Logout";
+"正在发起会议..." = "Now Invite...";
+"正在连接..." = "Now Connect...";
+"正在参加会议..." = "Now Join...";
+"下拉刷新列表..." = "Pull down to refresh status";
+"松开刷新列表..." = "Release to refresh status";
+"更新中..." = "Loading Status";
+"最后更新时间:%@" = "Last update time:%@";
+"以电子邮件邀请" = "Invite by Email";
+"复制链接" = "Copy link";
+"以文本方式发送链接" = "Text link";
+"请点击以下链接参加会议:%@" = "Click to join the Conference";
+"自动应答" = "Auto Answer";
+"会议邀请" = "meeting invitation";
+"来自 %@ 的新呼叫" = "New call from %@";
+"应答" = "Answer";
+"拒绝" = "Decline";
+"房间目前处在锁定状态" = "Room is locked";
+"房间目前处在PIN码进入状态" = "Room has PIN";
